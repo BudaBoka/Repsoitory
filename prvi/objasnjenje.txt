@@ -1,0 +1,5 @@
+slika1 - grad
+slika2 - most
+slika3 - planina/selo
+slika4 - pas
+slika5 - eiffelov toranj
